@@ -1,0 +1,1 @@
+This project is a repository to practice learning flask.
